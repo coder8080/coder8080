@@ -15,7 +15,7 @@ I am a ~~button color changer~~ frontend developer, but I also like to make nati
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coder8080) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZKkjxaFoRV2ZnTgnB87CRw)
 
-<div style="display: flex; align-items: flex-end; justify-content: space-between; width: 100%;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; padding-top: 15px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder8080" alt="Top Langs">
 
 <img src="https://github-readme-stats.vercel.app/api?username=coder8080&show_icons=true" alt="Github Metrics">
