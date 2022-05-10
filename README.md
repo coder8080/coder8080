@@ -2,7 +2,7 @@
 
 #### I am a frontend developer :computer:
 
- <img alt="GIF" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="400" />
+ <img alt="GIF" style="border-radius: 5px" align="right" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="350" />
 
 I am a ~~button color changer~~ frontend developer, but I also like to make native utilities with python.
 
@@ -15,8 +15,8 @@ I am a ~~button color changer~~ frontend developer, but I also like to make nati
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coder8080) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZKkjxaFoRV2ZnTgnB87CRw)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder8080)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-items: flex-end; justify-content: space-between; width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder8080" alt="Top Langs">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=coder8080&show_icons=true)
-
-![GitHub metrics](https://metrics.lecoq.io/coder8080)
+<img src="https://github-readme-stats.vercel.app/api?username=coder8080&show_icons=true" alt="Github Metrics">
+</div>
