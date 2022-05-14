@@ -8,6 +8,7 @@ I am a ~~button color changer~~ frontend developer, but I also like to make nati
 
 <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" /> REACT / <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" /> JS / <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /> HTML / <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" /> CSS / <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" /> NODE / <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> PYTHON
 
+- 🕸️ Resume: <a href="https://coder8080.github.io/resume/">link</a>
 - 🌱 I’m currently learning complex css capabilities
 - 💬 Ask me about anything
 - 📫 How to reach me: coder8080@mail.ru
